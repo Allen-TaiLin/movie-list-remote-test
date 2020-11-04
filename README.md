@@ -14,7 +14,5 @@ In index page, press the `+` button on the movie to keep it into favorite list.
 You can checkout the favorite list in `favorite.html`
 press `x` to remove it from favorite list
 
-![Minion](https://octodex.github.com/images/minion.png)
+
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-![Alt text][id]
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
